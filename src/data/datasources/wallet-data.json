@@ -1,0 +1,120 @@
+{
+  "cardBalance": {
+    "maxLimit": 1500,
+    "currentBalance": 17.30
+  },
+  "paymentStatus": "You've paid your September balance.",
+  "transactions": [
+    {
+      "id": "1",
+      "type": "Payment",
+      "amount": 174.00,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank National Association",
+      "date": "2026-01-12T10:30:00Z",
+      "status": "Completed",
+      "icon": "fa-building-columns"
+    },
+    {
+      "id": "2",
+      "type": "Credit",
+      "amount": -14.06,
+      "name": "Apple",
+      "description": "Card Number Used",
+      "date": "2026-01-13T14:20:00Z",
+      "status": "Pending",
+      "authorizedUser": "Diana",
+      "icon": "fa-apple-whole",
+      "cashbackPercentage": 3
+    },
+    {
+      "id": "3",
+      "type": "Credit",
+      "amount": -3.24,
+      "name": "Apple",
+      "description": "Card Number Used",
+      "date": "2026-01-12T16:45:00Z",
+      "status": "Completed",
+      "authorizedUser": "Diana",
+      "icon": "fa-apple-whole",
+      "cashbackPercentage": 3
+    },
+    {
+      "id": "4",
+      "type": "Payment",
+      "amount": 99.71,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank National Association",
+      "date": "2026-01-10T11:15:00Z",
+      "status": "Completed",
+      "icon": "fa-building-columns"
+    },
+    {
+      "id": "5",
+      "type": "Payment",
+      "amount": 73.58,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank National Association",
+      "date": "2026-01-09T09:30:00Z",
+      "status": "Completed",
+      "icon": "fa-building-columns"
+    },
+    {
+      "id": "6",
+      "type": "Credit",
+      "amount": -21.61,
+      "name": "IKEA",
+      "description": "Round Rock, TX",
+      "date": "2025-10-01T08:00:00Z",
+      "status": "Completed",
+      "icon": "fa-couch",
+      "cashbackPercentage": 2
+    },
+    {
+      "id": "7",
+      "type": "Credit",
+      "amount": -73.58,
+      "name": "Target",
+      "description": "Cedar Park, TX",
+      "date": "2025-09-30T13:45:00Z",
+      "status": "Completed",
+      "icon": "fa-cart-shopping",
+      "cashbackPercentage": 2
+    },
+    {
+      "id": "8",
+      "type": "Credit",
+      "amount": -45.20,
+      "name": "Whole Foods",
+      "description": "Grocery shopping",
+      "date": "2025-12-15T17:30:00Z",
+      "status": "Completed",
+      "authorizedUser": "Sarah Johnson",
+      "location": "Manhattan, NY",
+      "icon": "fa-basket-shopping",
+      "cashbackPercentage": 1
+    },
+    {
+      "id": "9",
+      "type": "Credit",
+      "amount": -125.00,
+      "name": "Uber",
+      "description": "Ride to airport",
+      "date": "2025-11-15T06:00:00Z",
+      "status": "Completed",
+      "icon": "fa-car",
+      "cashbackPercentage": 2
+    },
+    {
+      "id": "10",
+      "type": "Credit",
+      "amount": -22.99,
+      "name": "Netflix",
+      "description": "Monthly subscription",
+      "date": "2025-10-10T12:00:00Z",
+      "status": "Completed",
+      "icon": "fa-tv",
+      "cashbackPercentage": 1
+    }
+  ]
+}
