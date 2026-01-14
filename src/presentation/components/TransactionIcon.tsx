@@ -1,6 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
-  faBuildingColumns,
   faAppleWhole,
   faBasketShopping,
 } from '@fortawesome/free-solid-svg-icons';
